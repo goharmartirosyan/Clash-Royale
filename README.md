@@ -1,7 +1,7 @@
 # Clash Royale Game
 This is a simple implementation of the Clash Royale game in Java. 
 
-## Authros
+## Authors
 Gohar Martirosyan, Edgar Kirakosyan, Ani Nazaryan 
 
 ## License
